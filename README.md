@@ -1,2 +1,3 @@
 # Trabalho4_JoaoRossi_IvanDiniz
-Repositório do Trabalho 4 de Ivan Diniz e João Rossi
+João Gabriel Rossi de Borba - 17/0013693
+Ivan Diniz Dobbin - 17/0013278
